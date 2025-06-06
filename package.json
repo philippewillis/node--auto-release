@@ -1,0 +1,12 @@
+{
+  "name": "node--auto-release",
+  "version": "0.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^5.2.2",
+    "@types/node": "^20.11.17",
+    "prettier": "^3.5.3",
+    "tsx": "^4.7.1",
+    "typescript": "^5.8.3"
+  }
+}
